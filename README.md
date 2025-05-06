@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!, I'm MUAAZ, an Egyptian Internal Penetration Tester 👋:<br><br>- Interested in Internal Pentest & AD & Reverse Engineering & Malware Dev<br>- Currently studying the Active Directory Penetration Testing Path & AI Red Teamer Path from @HackTheBox Academy<br>- Working with a team for Bug Bounty Hunting <br><br>
+Hello World!, I'm MUAAZ, an Egyptian Internal Penetration Tester 👋:<br><br>- Interested in Internal Pentest & AD & Reverse Engineering & Malware Dev<br>- Currently studying the Active Directory Penetration Testing Path & AI Red Teamer Path from @HackTheBox Academy<br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
