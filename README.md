@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello World!, I'm MUAAZ, an Egyptian Internal Penetration Tester 👋:<br><br>- Interested in Internal Pentest & AD & Reverse Engineering & Malware Dev<br>- Currently studying the Active Directory Penetration Testing Path & AI Red Teamer Path from @HackTheBox Academy<br>- Working with a team for Bug Bounty Hunting <br><br>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.mezol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muaaztalaat) 
@@ -14,9 +15,6 @@ Hello World!, I'm MUAAZ, an Egyptian Internal Penetration Tester 👋:<br><br>- 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CYBERMEZO-bit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CYBERMEZO-bit&limit=5&theme=dark&combine_all_yearly_contributions=true)
