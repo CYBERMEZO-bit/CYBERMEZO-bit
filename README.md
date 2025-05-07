@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hello World!, I'm MUAAZ, an Egyptian Internal Penetration Tester 👋:<br><br>- Interested in Internal Pentest & AD & Reverse Engineering & Malware Dev<br>- Currently studying the Active Directory Penetration Testing Path & AI Red Teamer Path from @HackTheBox Academy<br>
 
-# 💻 languages:
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=CYBERMEZO-bit&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CYBERMEZO-bit&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERMEZO-bit&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
